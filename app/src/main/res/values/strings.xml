@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Phone Authentication</string>
+    <string name="register">Register</string>
+    <string name="_233_enter_phone_number">(+233)- Enter phone number</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="don_t_have_an_account_create_one">Don\'t have an account? create one</string>
+    <string name="phone_auth">Phone Auth</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="enter_otp_sent_to">Enter OTP sent to</string>
+    <string name="didn_t_receive_otp">Didn\'t receive OTP?</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="verify">Verify</string>
+</resources>
